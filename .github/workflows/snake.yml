@@ -17,9 +17,11 @@ jobs:
         with:
           github_user_name: Mohideen2005
           outputs: output/github-contribution-grid-snake.svg
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
         with:
-          commit_message: "Update snake animation SVG"
-          file_pattern: output/*.svg
-          push_options: --force
+          commit-message: "Update snake animation SVG"
+          branch: snake-animation-update
+          title: "Update Snake Animation SVG"
+          body: "Automated update of the snake animation SVG file."
+          delete-branch: true
