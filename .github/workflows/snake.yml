@@ -1,36 +1,24 @@
-
-- **Snake Animation Line**: The line `<img src="https://github.com/Mohideen2005/Mohideen2005/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>` is already included in the “GitHub Stats” section, ensuring it’s part of the profile.
-
-#### Step 2: Ensure the Snake Animation Workflow is Set Up
-The snake animation requires a GitHub Action to generate the SVG file. Let’s confirm the workflow is in place and has run successfully.
-
-1. **Verify the Workflow File**:
-   - In `Mohideen2005/Mohideen2005`, go to the **Code** tab.
-   - Look for `.github/workflows/snake.yml`.
-   - If it exists, ensure it matches:
-     ```yaml
-     name: Generate Snake Animation
-     on:
-       schedule:
-         - cron: "0 0 * * *" # Runs daily at midnight UTC (5:30 AM IST)
-       workflow_dispatch: # Allows manual triggering
-       push:
-         branches:
-           - main
-     jobs:
-       generate-snake:
-         runs-on: ubuntu-latest
-         steps:
-           - name: Checkout repository
-             uses: actions/checkout@v4
-           - name: Generate snake animation
-             uses: Platane/snk@v3
-             with:
-               github_user_name: Mohideen2005
-               outputs: |
-                 output/github-contribution-grid-snake.svg
-           - name: Commit and push changes
-             uses: stefanzweifel/git-auto-commit-action@v5
-             with:
-               commit_message: "Update snake animation SVG"
-               file_pattern: output/*.svg
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Mohideen2005
+          outputs: output/github-contribution-grid-snake.svg
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update snake animation SVG"
+          file_pattern: output/*.svg
