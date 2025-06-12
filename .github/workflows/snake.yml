@@ -22,3 +22,7 @@ jobs:
         with:
           commit_message: "Update snake animation SVG"
           file_pattern: output/*.svg
+          repository: .
+          branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
