@@ -38,10 +38,6 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   *2023 - 2027 (Expected)*  
   Core Subjects: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Software Engineering, AI
 
-<div align="center">
-  <img src="funnygif4.gif" width="150" alt="Dancing Skeleton GIF"/>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -74,10 +70,6 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   A Python chatbot with rule-based responses and basic NLP for fun interactions.  
   *Tech*: Python, NLP  
 
-<div align="center">
-  <img src="funnygif5.gif" width="150" alt="Funny Dance Loop GIF"/>
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -91,6 +83,7 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   <img src="funnygif1.gif" width="150" alt="Funny Dancing Bear GIF"/>
   <img src="funnygif2.gif" width="150" alt="Dancing Cartoon GIF"/>
   <img src="funnygif3.gif" width="150" alt="Funny Dance Move GIF"/>
+  <img src="funnygif4.gif" width="150" alt="Dancing Skeleton GIF"/>
 </div>
 
 ---
@@ -100,6 +93,11 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 - **Tech Focus**: Optimizing cross-platform apps, async programming, mobile app security  
 - **Learning**: Machine Learning, REST APIs, CI/CD, Flutter state management  
 - **Hobbies**: App development, UI/UX design, open-source contributions, algorithmic puzzles, and gaming like a boss! 🎮
+
+<div align="center">
+  <img src="funnygif5.gif" width="150" alt="Funny Dance Loop GIF"/>
+  <img src="funnygif6.gif" width="150" alt="Dancing Celebration GIF"/>
+</div>
 
 ---
 
@@ -118,10 +116,6 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   <a href="https://www.instagram.com/mohideen._.s.a/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="funnygif6.gif" width="150" alt="Dancing Celebration GIF"/>
 </div>
 
 ---
