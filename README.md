@@ -2,11 +2,11 @@
   <img src="profile-pic.jpg" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
 </div>
 
-# 🎉 Hey, I'm Mohammed Mohideen S A! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving Hand"/>
+# 🎉 Hey, I'm Mohammed Mohideen S A! <img src="giphy" width="25px" alt="Waving Hand"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32¢er=true&vCenter=true&width=700&height=80&color=FF6F61&lines=CSE+Code+Crusader;Bug+Slayer+Extraordinaire;Let’s+Build+Epic+Tech+Adventures!" alt="Animated Typing"/>
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100" alt="Confetti Animation"/>
+  <img src="giphy (1)" width="100" alt="Confetti Animation"/>
 </div>
 
 ---
@@ -18,12 +18,6 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 🌱 **Currently Exploring**: Machine Learning wizardry, REST API magic, Flutter state management (Bloc, Provider), and the art of CI/CD pipelines  
 💬 **Talk to Me About**: Code battles, UI/UX sorcery, algorithms, or your wildest app ideas  
 ⚡ **Fun Fact**: I built a digital piano in C++ that plays tunes with keyboard taps—basically, I’m a coding rockstar! 🎹
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26gsjCZzpKH5NQUqQ/giphy.gif" width="150" alt="Funny Dancing GIF 1"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Funny Dancing GIF 2"/>
-  <img src="https://media.giphy.com/media/3o7TKz9bC2kW4k0i7e/giphy.gif" width="150" alt="Funny Dancing GIF 3"/>
-</div>
 
 <div align="center">
   <img src="photo1.jpg" width="200" alt="Photo 1"/>
@@ -88,8 +82,8 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 </style>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4KibK3JwaVo0Cce4/giphy.gif" width="150" alt="Doom Guy GIF"/>
-  <img src="https://media.giphy.com/media/3o7TKz9bC2kW4k0i7e/giphy.gif" width="150" alt="God of War Kratos GIF"/>
+  <img src="giphy (2)" width="150" alt="Doom Guy GIF"/>
+  <img src="giphy (3)" width="150" alt="God of War Kratos GIF"/>
 </div>
 
 ---
@@ -144,4 +138,4 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   | |_) | __ _ _| |__   
   |  _ < / _` | | '_ \  
   | |_) | (_| | | |_) | 
-  |____/ \__,_|_|_.__/ 
+  |____/ \__,_|_|_.__/  
