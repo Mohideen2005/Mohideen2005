@@ -80,10 +80,10 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bC2kW4k0i7e/giphy.gif" width="150" alt="Funny Dancing Bear GIF"/>
-  <img src="https://media.giphy.com/media/26gsjCZzpKH5NQUqQ/giphy.gif" width="150" alt="Dancing Cartoon GIF"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Funny Dance Move GIF"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Dancing Skeleton GIF"/>
+  <img src="funnygif1.gif" width="150" alt="Funny Dancing Bear GIF"/>
+  <img src="funnygif2.gif" width="150" alt="Dancing Cartoon GIF"/>
+  <img src="funnygif3.gif" width="150" alt="Funny Dance Move GIF"/>
+  <img src="funnygif4.gif" width="150" alt="Dancing Skeleton GIF"/>
 </div>
 
 ---
@@ -95,8 +95,8 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 - **Hobbies**: App development, UI/UX design, open-source contributions, algorithmic puzzles, and gaming like a boss! 🎮
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCnRnKk/giphy.gif" width="150" alt="Funny Dance Loop GIF"/>
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="150" alt="Dancing Celebration GIF"/>
+  <img src="funnygif5.gif" width="150" alt="Funny Dance Loop GIF"/>
+  <img src="funnygif6.gif" width="150" alt="Dancing Celebration GIF"/>
 </div>
 
 ---
