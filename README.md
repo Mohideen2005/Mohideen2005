@@ -30,14 +30,6 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   <img src="photo2.jpg" width="200" alt="Photo 2"/>
 </div>
 
-<div align="center">
-  <p>🎮 Hear a cool gaming power-up sound!</p>
-  <audio controls>
-    <source src="https://www.soundjay.com/buttons/sounds/button-1.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
 ---
 
 ## 🎓 Education
@@ -124,7 +116,7 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
   <a href="mailto:9923004120@klu.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://x.com/Mohideen2005" target="_blank">
+  <a href="https://x.com/Mohideensa2005" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.instagram.com/mohideen._.s.a/" target="_blank">
