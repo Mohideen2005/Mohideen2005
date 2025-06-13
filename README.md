@@ -68,7 +68,6 @@ Hey there! I'm a **Computer Science undergraduate** fueled by a passion for craf
   <img src="https://github-readme-stats.vercel.app/api?username=Mohideen2005&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohideen2005&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohideen2005&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
-  <img src="https://github.com/Mohideen2005/Mohideen2005/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 <style>
