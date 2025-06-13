@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="profile-pic.jpg" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+</div>
+
 # 🎉 Hey, I'm Mohammed Mohideen S A! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving Hand"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32¢er=true&vCenter=true&width=700&height=80&color=FF6F61&lines=Flutter+App+Dev+Wizard;Coding+with+Passion+%26+Creativity;Let's+Build+Something+Fun!" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32¢er=true&vCenter=true&width=700&height=80&color=FF6F61&lines=CSE+Code+Crusader;Bug+Slayer+Extraordinaire;Let’s+Build+Epic+Tech+Adventures!" alt="Animated Typing"/>
   <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100" alt="Confetti Animation"/>
 </div>
 
@@ -9,19 +13,29 @@
 
 ## 🌟 About Me
 
-Hey there! I'm a **Computer Science undergraduate** fueled by a passion for crafting innovative apps and solving real-world problems. I love diving into Flutter, Python, and C++, always aiming for clean code and sleek UI/UX. When I'm not coding, you might catch me exploring new tech or jamming to music! 🎶
+Hey there! I'm a **Computer Science student** on a mission to conquer the digital realm, one line of code at a time! I’m obsessed with crafting clever solutions, diving into wild tech experiments, and mastering the art of debugging (aka slaying bugs like a pro 🗡️). I geek out over C++, Python, and Flutter, and I’m always up for a coding challenge that sparks joy! When I’m not glued to my screen, you’ll find me gaming like a champ or dreaming up the next big app idea. 🚀
 
-🌱 **Currently Exploring**: Machine Learning, REST APIs, Flutter state management (Bloc, Provider), CI/CD  
-💬 **Talk to Me About**: Flutter, UI/UX, algorithms, or cool app ideas  
-⚡ **Fun Fact**: I built a digital piano in C++ that plays tunes with keyboard taps! 🎹
+🌱 **Currently Exploring**: Machine Learning wizardry, REST API magic, Flutter state management (Bloc, Provider), and the art of CI/CD pipelines  
+💬 **Talk to Me About**: Code battles, UI/UX sorcery, algorithms, or your wildest app ideas  
+⚡ **Fun Fact**: I built a digital piano in C++ that plays tunes with keyboard taps—basically, I’m a coding rockstar! 🎹
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26gsjCZzpKH5NQUqQ/giphy.gif" width="150" alt="Funny Dancing GIF 1"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Funny Dancing GIF 2"/>
+  <img src="https://media.giphy.com/media/3o7TKz9bC2kW4k0i7e/giphy.gif" width="150" alt="Funny Dancing GIF 3"/>
+</div>
+
+<div align="center">
+  <img src="photo1.jpg" width="200" alt="Photo 1"/>
+  <img src="photo2.jpg" width="200" alt="Photo 2"/>
+</div>
 
 ---
 
 ## 🎓 Education
 
 - **B.Tech in Computer Science and Engineering**  
-  Kalasalingam Academy of Research and Education, Tamil Nadu, India  
-  *2023 - 2027 (Expected)* | CGPA: 7.3  
+  *2023 - 2027 (Expected)*  
   Core Subjects: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Software Engineering, AI
 
 ---
@@ -56,10 +70,6 @@ Hey there! I'm a **Computer Science undergraduate** fueled by a passion for craf
   A Python chatbot with rule-based responses and basic NLP for fun interactions.  
   *Tech*: Python, NLP  
 
-- **[Mini Compiler](https://github.com/Mohideen2005)**  
-  A C-based compiler for a C subset, featuring lexical analysis and syntax validation.  
-  *Tech*: C, Compiler Design  
-
 ---
 
 ## 📊 GitHub Stats
@@ -77,13 +87,23 @@ Hey there! I'm a **Computer Science undergraduate** fueled by a passion for craf
 }
 </style>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKz9bC2kW4k0i7e/giphy.gif" width="150" alt="Doom Eternal GIF"/>
+  <img src="https://media.giphy.com/media/26ufnwz3w2qCwNqic/giphy.gif" width="150" alt="God of War GIF"/>
+</div>
+
 ---
 
 ## 🔍 Research & Interests
 
 - **Tech Focus**: Optimizing cross-platform apps, async programming, mobile app security  
 - **Learning**: Machine Learning, REST APIs, CI/CD, Flutter state management  
-- **Hobbies**: App development, UI/UX design, open-source contributions, algorithmic puzzles  
+- **Hobbies**: App development, UI/UX design, open-source contributions, algorithmic puzzles, and gaming like a boss! 🎮
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Funny Dancing GIF 4"/>
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCnRnKk/giphy.gif" width="150" alt="Funny Dancing GIF 5"/>
+</div>
 
 ---
 
