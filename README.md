@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32¢er=true&vCenter=true&width=700&height=80&color=FF6F61&lines=CSE+Code+Crusader;Bug+Slayer+Extraordinaire;Let’s+Build+Epic+Tech+Adventures!" alt="Animated Typing"/>
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100" alt="Confetti Animation"/>
+  <img src="giphy.gif" width="100" alt="GIF 1"/>
 </div>
 
 ---
@@ -20,9 +20,9 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 ⚡ **Fun Fact**: I built a digital piano in C++ that plays tunes with keyboard taps—basically, I’m a coding rockstar! 🎹
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26gsjCZzpKH5NQUqQ/giphy.gif" width="150" alt="Funny Dancing GIF 1"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Funny Dancing GIF 2"/>
-  <img src="https://media.giphy.com/media/3o7TKz9bC2kW4k0i7e/giphy.gif" width="150" alt="Funny Dancing GIF 3"/>
+  <img src="giphy (1).gif" width="150" alt="GIF 2"/>
+  <img src="giphy (2).gif" width="150" alt="GIF 3"/>
+  <img src="giphy (3).gif" width="150" alt="GIF 4"/>
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 
 <div align="center" style="animation: bounce 2s infinite;">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohideen2005&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohideen2005&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Mohideen2005&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohideen2005&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
 </div>
 
@@ -103,8 +103,8 @@ Hey there! I'm a **Computer Science student** on a mission to conquer the digita
 - **Hobbies**: App development, UI/UX design, open-source contributions, algorithmic puzzles, and gaming like a boss! 🎮
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Funny Dancing GIF 4"/>
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCnRnKk/giphy.gif" width="150" alt="Funny Dancing GIF 5"/>
+  <img src="giphy.gif" width="150" alt="GIF 1"/>
+  <img src="giphy (1).gif" width="150" alt="GIF 2"/>
 </div>
 
 ---
